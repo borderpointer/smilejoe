@@ -2,10 +2,6 @@ var slackbot = require('node-slackbot');
 
 var token = process.env.SLACK_API_TOKEN;
 
-var joe = process.env.JOE_ID;
-
-// U0AGC7WKH // hide this
-
 var bot = new slackbot(token);
 
 var smilejoe = function(message, cb) {

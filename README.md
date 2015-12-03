@@ -9,8 +9,10 @@ Slackbot for complimenting one of our GA instructor [Joe Jung](https://github.co
 *You must have node.js installed in this.* <br>
 *You must also have Joe in your Slack group for this bot to work.*
 
+* create a bot user intergration [here](https://my.slack.com/services/new/bot)
 * clone this repo in Terminal while in your desired directory: `git clone git@github.com:borderpointer/smilejoe.git`
 * cd into the directory `cd smilejoe`
+* create an environmental variable `SLACK_API_TOKEN` that equals to the token generated from step 1.
 * run `node index.js`
 * invite `smilejoe` into your desired Slack group.
 
@@ -26,3 +28,4 @@ Huge thanks to all the girls in my GA class! (in alphabetical order):
 [Marie](https://github.com/Marievtb),
 [Melissa](https://github.com/melissamesku), and
 [Molly](https://github.com/mollydonohue-GA)!
+
