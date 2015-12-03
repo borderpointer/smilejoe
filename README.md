@@ -24,5 +24,5 @@ Huge thanks to all the girls in my GA class! (in alphabetical order):
 [Katie Z](https://github.com/katiezhou),
 [Malina](https://github.com/malinatran),
 [Marie](https://github.com/Marievtb),
-[Melissa](https://github.com/melissamesku),
-[Molly](https://github.com/mollydonohue-GA)
+[Melissa](https://github.com/melissamesku), and
+[Molly](https://github.com/mollydonohue-GA)!
