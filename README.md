@@ -7,7 +7,7 @@ Slackbot for complimenting one of our GA instructor [Joe Jung](https://github.co
 ## Installation
 
 *You must have node.js installed for this to work.* <br>
-*You must also have Joe in your Slack group for this bot to work.*
+*You must also have Joe in your Slack group for this bot to work.*<br>
 
 * create a bot user intergration [here](https://my.slack.com/services/new/bot)
 * clone this repo in Terminal while in your desired directory: `git clone git@github.com:borderpointer/smilejoe.git`
